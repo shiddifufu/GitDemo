@@ -1,6 +1,6 @@
 # 派大星的自我介绍
 
-< img src="https://github.com/shiddifufu/GitDemo/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/3b5e4823ee2828953f36ea1e4bebba4d.jpeg" width="200" alt="派大星形象">
+<img src="https://github.com/shiddifufu/GitDemo/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/3b5e4823ee2828953f36ea1e4bebba4d.jpeg" width="200" alt="派大星形象">
 
 大家好，我是**派大星**，我是*比奇堡躺平的海星*。以下是我的自我介绍：
 
@@ -43,7 +43,7 @@ print(np.array([1, 2, 3]) ** 2)
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 
 ### 我最喜欢的环境管理工具是conda
-< img src="https://github.com/shiddifufu/GitDemo/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/b531ee5a565d3a25cb9f314366c9d53.png" width="800" alt="截图一">
+<img src="https://github.com/shiddifufu/GitDemo/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/b531ee5a565d3a25cb9f314366c9d53.png" width="800" alt="截图一">
 
 ### 我可以在IDE上使用我建立的虚拟环境
-< img src="https://github.com/shiddifufu/GitDemo/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/c1e06e4f183d175db5b147c075a4f49.png" width="800" alt="截图二">
+<img src="https://github.com/shiddifufu/GitDemo/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/c1e06e4f183d175db5b147c075a4f49.png" width="800" alt="截图二">
